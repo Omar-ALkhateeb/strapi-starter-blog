@@ -39,8 +39,8 @@
     "uuid": ""
   },
   "engines": {
-    "node": "10x",
-    "npm": "6x"
+    "node": "10.x",
+    "npm": "6.x"
   },
   "license": "MIT"
 }
